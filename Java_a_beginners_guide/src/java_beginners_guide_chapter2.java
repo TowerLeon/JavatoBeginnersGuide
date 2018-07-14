@@ -181,7 +181,6 @@ class VarInitDemo {
 }
 
 //listing 10
-
 /*
    This program attempts to declared a variable
    in an inner scope with the same name as one
@@ -359,7 +358,6 @@ class CastDemo {
 //listing 18
 /*
    Project 2-2
-
    Print a truth table for the logical operators.
 */
 class LogicalOpTable {
