@@ -310,8 +310,7 @@ class ACopy {
 
 //listing 12
 /* 
-   Project 5-2 
- 
+   Project 5-2
    A queue class for characters. 
 */
 
