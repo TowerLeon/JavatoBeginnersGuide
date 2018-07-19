@@ -664,8 +664,7 @@ class ShiftDemo {
 
 //listing 25
 /* 
-   Project 5-3 
- 
+   Project 5-3
    A class that displays the binary representation of a value. 
 */
 
